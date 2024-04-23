@@ -2,15 +2,16 @@
 
 #### Your name
 
-TODO
+
+Abrar Islam
 
 #### Your section leader's name
 
-TODO
+Solo project
 
 #### Project title
 
-TODO
+Shooting game
 
 ***
 
@@ -18,12 +19,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I made the background and the character is on screen.
 
 #### What have you not done for your project yet?
 
-TODO
+Not made the character obtain a weapon and shoot. The character doesn't move still. And still didn't add levels.
 
 #### What problems, if any, have you encountered?
 
-TODO
+Didn't face any problem yet
